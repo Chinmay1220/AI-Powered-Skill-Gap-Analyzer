@@ -135,6 +135,7 @@ Structured JSON Response
  ▼
 Streamlit UI + PDF Report Download
 
+---
 
 # 1. Install dependencies
 pip install -r requirements.txt
@@ -150,4 +151,8 @@ uvicorn backend.main:app --reload --port 8000
 
 # 5. Run frontend
 streamlit run frontend/app.py
+
+---
+### Mind Map
+<img width="4998" height="6636" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/005f1d91-8a61-4439-a516-48b9e5122ea1" />
 
