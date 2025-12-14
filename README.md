@@ -132,48 +132,7 @@ Structured JSON Response
  ▼
 Streamlit UI + PDF Report Download
 
----
-
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Configure environment variables
-cp .env.example .env
-
-# 3. Seed the vector database
-python scripts/seed_pinecone.py
-
-# 4. Run backend
-uvicorn backend.main:app --reload --port 8000
-
-# 5. Run frontend
-streamlit run frontend/app.py
-
----
-### Mind Map
-<img width="4998" height="6636" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/9c64a513-f3f3-4170-b1a4-db9af95aafff" />
 
 
----
-
-## ✅ Conclusion
-
-This system architecture represents a complete, end-to-end **AI-powered skill gap analysis pipeline**, designed to move beyond shallow keyword matching and toward **evidence-grounded, explainable insights**.
-
-By combining:
-- **Streamlit** for an intuitive user interface  
-- **FastAPI** for modular and scalable backend orchestration  
-- **Pinecone-powered RAG** for contextual retrieval  
-- **OpenAI embeddings and GPT models** for grounded generation  
-
-the system transforms raw resumes and job descriptions into **structured, actionable guidance**—including skill gaps, tailored resume suggestions, and personalized learning plans.
-
-Importantly, the system is built with **safety and ethics in mind**:
-- It does not rank or score candidates  
-- It avoids fabricating experience  
-- It clearly positions itself as an advisory tool, not a hiring decision engine  
-
-Overall, this architecture closes the loop from **user input → trusted AI reasoning → practical outcomes**, making it suitable for real-world career advisory and upskilling use cases while remaining transparent, extensible, and production-ready.
-
-
+hi
 
