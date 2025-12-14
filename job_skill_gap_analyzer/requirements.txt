@@ -16,3 +16,4 @@ streamlit==1.38.0
 python-multipart==0.0.9
 plotly
 reportlab
+reportlab==4.1.0
