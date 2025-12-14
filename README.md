@@ -1,6 +1,8 @@
 # 🚀 Career AI: Job Skill Gap Analyzer  
 **Beyond the Match Score: How AI Delivers the Career Feedback You Actually Need**
 
+Youtube link - https://youtu.be/JY_FX41jo_M
+
 ---
 
 ## 📌 Introduction: The Black Box of Job Rejection
