@@ -133,3 +133,20 @@ Structured JSON Response
  │
  ▼
 Streamlit UI + PDF Report Download
+
+
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Configure environment variables
+cp .env.example .env
+
+# 3. Seed the vector database
+python scripts/seed_pinecone.py
+
+# 4. Run backend
+uvicorn backend.main:app --reload --port 8000
+
+# 5. Run frontend
+streamlit run frontend/app.py
+
