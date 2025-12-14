@@ -135,7 +135,7 @@ Streamlit UI + PDF Report Download
 ## Mind Map
 <img width="4998" height="6636" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/8b89178c-82b6-44dc-97b7-7b1788e70d8c" />
 
-
+Streamlit link - https://chinmay1220-ai-powered-job-skill-gap-analyzerfrontendapp-iddc1d.streamlit.app/
 ---
 
 ## ✅ Conclusion
