@@ -12,6 +12,7 @@ This lack of meaningful feedback creates a frustrating **“black box”** where
 **Career AI: Job Description → Skill Gap Analyzer** is built to crack open that black box **before you even apply**.
 
 Instead of offering a vague “match score,” this AI-powered system explains **why** a candidate may be rejected, **which skills are weak or missing**, and **exactly what to do next**, grounded in real-world, industry-aligned expectations.
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/66425a6e-47ca-4d5f-a438-15381a526d79" />
 
 ---
 
