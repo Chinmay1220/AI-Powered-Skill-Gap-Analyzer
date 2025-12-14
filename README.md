@@ -151,7 +151,7 @@ uvicorn backend.main:app --reload --port 8000
 
 # 5. Run frontend
 streamlit run frontend/app.py
-
+```text
 ---
 ### Mind Map
 <img width="4998" height="6636" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/9c64a513-f3f3-4170-b1a4-db9af95aafff" />
