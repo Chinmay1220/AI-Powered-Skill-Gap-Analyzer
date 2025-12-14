@@ -154,5 +154,6 @@ streamlit run frontend/app.py
 
 ---
 ### Mind Map
-<img width="4998" height="6636" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/005f1d91-8a61-4439-a516-48b9e5122ea1" />
+<img width="4998" height="6636" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/9c64a513-f3f3-4170-b1a4-db9af95aafff" />
+
 
