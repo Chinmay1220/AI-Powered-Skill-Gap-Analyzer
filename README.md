@@ -1,4 +1,4 @@
-# 🚀 Career AI: Job Description → Skill Gap Analyzer  
+# 🚀 Career AI: Job Skill Gap Analyzer  
 **Beyond the Match Score: How AI Delivers the Career Feedback You Actually Need**
 
 ---
